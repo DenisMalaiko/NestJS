@@ -1,0 +1,11 @@
+### POST request to example server
+POST http://localhost:3000/users
+
+{
+    "id": 6,
+    "name": "Jane",
+    "email": "jane@gmail.com",
+    "age": 25
+}
+
+###
